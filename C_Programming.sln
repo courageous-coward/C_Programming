@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hello", "Hello\Hello.vcxproj", "{2A5B539E-FAE8-4E52-A3F8-0E25C0E06599}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chap1", "Chap1", "{192FB38B-E6FE-4D17-B20E-1D03AF2E1A73}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "add", "add\add.vcxproj", "{17CE0ED6-3882-4B0B-A010-765011F04AA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,8 +20,15 @@ Global
 		{2A5B539E-FAE8-4E52-A3F8-0E25C0E06599}.Release|Win32.Build.0 = Release|Win32
 		{2A5B539E-FAE8-4E52-A3F8-0E25C0E06599}.Release|x64.ActiveCfg = Release|x64
 		{2A5B539E-FAE8-4E52-A3F8-0E25C0E06599}.Release|x64.Build.0 = Release|x64
+		{17CE0ED6-3882-4B0B-A010-765011F04AA5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17CE0ED6-3882-4B0B-A010-765011F04AA5}.Debug|Win32.Build.0 = Debug|Win32
+		{17CE0ED6-3882-4B0B-A010-765011F04AA5}.Debug|x64.ActiveCfg = Debug|x64
+		{17CE0ED6-3882-4B0B-A010-765011F04AA5}.Debug|x64.Build.0 = Debug|x64
+		{17CE0ED6-3882-4B0B-A010-765011F04AA5}.Release|Win32.ActiveCfg = Release|Win32
+		{17CE0ED6-3882-4B0B-A010-765011F04AA5}.Release|Win32.Build.0 = Release|Win32
+		{17CE0ED6-3882-4B0B-A010-765011F04AA5}.Release|x64.ActiveCfg = Release|x64
+		{17CE0ED6-3882-4B0B-A010-765011F04AA5}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2A5B539E-FAE8-4E52-A3F8-0E25C0E06599} = {192FB38B-E6FE-4D17-B20E-1D03AF2E1A73}
 	EndGlobalSection
 EndGlobal
