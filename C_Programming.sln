@@ -24,6 +24,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2_4", "ex2_4\ex2_4.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2_5", "ex2_5\ex2_5.vcxproj", "{B3FE7321-9039-4C1E-BAAB-F0326A0A5A25}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2_6", "ex2_6\ex2_6.vcxproj", "{3FB881FD-C44D-4306-979E-5D9224B08D1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -128,6 +130,14 @@ Global
 		{B3FE7321-9039-4C1E-BAAB-F0326A0A5A25}.Release|Win32.Build.0 = Release|Win32
 		{B3FE7321-9039-4C1E-BAAB-F0326A0A5A25}.Release|x64.ActiveCfg = Release|x64
 		{B3FE7321-9039-4C1E-BAAB-F0326A0A5A25}.Release|x64.Build.0 = Release|x64
+		{3FB881FD-C44D-4306-979E-5D9224B08D1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FB881FD-C44D-4306-979E-5D9224B08D1D}.Debug|Win32.Build.0 = Debug|Win32
+		{3FB881FD-C44D-4306-979E-5D9224B08D1D}.Debug|x64.ActiveCfg = Debug|x64
+		{3FB881FD-C44D-4306-979E-5D9224B08D1D}.Debug|x64.Build.0 = Debug|x64
+		{3FB881FD-C44D-4306-979E-5D9224B08D1D}.Release|Win32.ActiveCfg = Release|Win32
+		{3FB881FD-C44D-4306-979E-5D9224B08D1D}.Release|Win32.Build.0 = Release|Win32
+		{3FB881FD-C44D-4306-979E-5D9224B08D1D}.Release|x64.ActiveCfg = Release|x64
+		{3FB881FD-C44D-4306-979E-5D9224B08D1D}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
