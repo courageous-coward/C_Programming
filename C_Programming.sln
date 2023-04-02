@@ -54,6 +54,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2_19", "ex2_19\ex2_19.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2_20", "ex2_20\ex2_20.vcxproj", "{5567C605-3643-4A77-86FD-1032C490D1AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2_21", "ex2_21\ex2_21.vcxproj", "{9C760DD2-0E5B-4ED3-AFFC-A0AAE01EC591}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex2_22", "ex2_22\ex2_22.vcxproj", "{7CDE4544-7D84-45C7-9711-1AF55F66F41F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -278,6 +282,22 @@ Global
 		{5567C605-3643-4A77-86FD-1032C490D1AB}.Release|Win32.Build.0 = Release|Win32
 		{5567C605-3643-4A77-86FD-1032C490D1AB}.Release|x64.ActiveCfg = Release|x64
 		{5567C605-3643-4A77-86FD-1032C490D1AB}.Release|x64.Build.0 = Release|x64
+		{9C760DD2-0E5B-4ED3-AFFC-A0AAE01EC591}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C760DD2-0E5B-4ED3-AFFC-A0AAE01EC591}.Debug|Win32.Build.0 = Debug|Win32
+		{9C760DD2-0E5B-4ED3-AFFC-A0AAE01EC591}.Debug|x64.ActiveCfg = Debug|x64
+		{9C760DD2-0E5B-4ED3-AFFC-A0AAE01EC591}.Debug|x64.Build.0 = Debug|x64
+		{9C760DD2-0E5B-4ED3-AFFC-A0AAE01EC591}.Release|Win32.ActiveCfg = Release|Win32
+		{9C760DD2-0E5B-4ED3-AFFC-A0AAE01EC591}.Release|Win32.Build.0 = Release|Win32
+		{9C760DD2-0E5B-4ED3-AFFC-A0AAE01EC591}.Release|x64.ActiveCfg = Release|x64
+		{9C760DD2-0E5B-4ED3-AFFC-A0AAE01EC591}.Release|x64.Build.0 = Release|x64
+		{7CDE4544-7D84-45C7-9711-1AF55F66F41F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7CDE4544-7D84-45C7-9711-1AF55F66F41F}.Debug|Win32.Build.0 = Debug|Win32
+		{7CDE4544-7D84-45C7-9711-1AF55F66F41F}.Debug|x64.ActiveCfg = Debug|x64
+		{7CDE4544-7D84-45C7-9711-1AF55F66F41F}.Debug|x64.Build.0 = Debug|x64
+		{7CDE4544-7D84-45C7-9711-1AF55F66F41F}.Release|Win32.ActiveCfg = Release|Win32
+		{7CDE4544-7D84-45C7-9711-1AF55F66F41F}.Release|Win32.Build.0 = Release|Win32
+		{7CDE4544-7D84-45C7-9711-1AF55F66F41F}.Release|x64.ActiveCfg = Release|x64
+		{7CDE4544-7D84-45C7-9711-1AF55F66F41F}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
