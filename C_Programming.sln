@@ -74,6 +74,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex3_5", "ex3_5\ex3_5.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex3_6", "ex3_6\ex3_6.vcxproj", "{AACA837D-C3CB-47DA-A766-54D9C009971C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex3_7", "ex3_7\ex3_7.vcxproj", "{50B11808-1B57-4A7C-BFA6-27002C56A505}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ex3_8", "ex3_8\ex3_8.vcxproj", "{B31ACE0D-57D8-4E77-A450-2EB3D4FD4535}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -378,6 +382,22 @@ Global
 		{AACA837D-C3CB-47DA-A766-54D9C009971C}.Release|Win32.Build.0 = Release|Win32
 		{AACA837D-C3CB-47DA-A766-54D9C009971C}.Release|x64.ActiveCfg = Release|x64
 		{AACA837D-C3CB-47DA-A766-54D9C009971C}.Release|x64.Build.0 = Release|x64
+		{50B11808-1B57-4A7C-BFA6-27002C56A505}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50B11808-1B57-4A7C-BFA6-27002C56A505}.Debug|Win32.Build.0 = Debug|Win32
+		{50B11808-1B57-4A7C-BFA6-27002C56A505}.Debug|x64.ActiveCfg = Debug|x64
+		{50B11808-1B57-4A7C-BFA6-27002C56A505}.Debug|x64.Build.0 = Debug|x64
+		{50B11808-1B57-4A7C-BFA6-27002C56A505}.Release|Win32.ActiveCfg = Release|Win32
+		{50B11808-1B57-4A7C-BFA6-27002C56A505}.Release|Win32.Build.0 = Release|Win32
+		{50B11808-1B57-4A7C-BFA6-27002C56A505}.Release|x64.ActiveCfg = Release|x64
+		{50B11808-1B57-4A7C-BFA6-27002C56A505}.Release|x64.Build.0 = Release|x64
+		{B31ACE0D-57D8-4E77-A450-2EB3D4FD4535}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B31ACE0D-57D8-4E77-A450-2EB3D4FD4535}.Debug|Win32.Build.0 = Debug|Win32
+		{B31ACE0D-57D8-4E77-A450-2EB3D4FD4535}.Debug|x64.ActiveCfg = Debug|x64
+		{B31ACE0D-57D8-4E77-A450-2EB3D4FD4535}.Debug|x64.Build.0 = Debug|x64
+		{B31ACE0D-57D8-4E77-A450-2EB3D4FD4535}.Release|Win32.ActiveCfg = Release|Win32
+		{B31ACE0D-57D8-4E77-A450-2EB3D4FD4535}.Release|Win32.Build.0 = Release|Win32
+		{B31ACE0D-57D8-4E77-A450-2EB3D4FD4535}.Release|x64.ActiveCfg = Release|x64
+		{B31ACE0D-57D8-4E77-A450-2EB3D4FD4535}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
